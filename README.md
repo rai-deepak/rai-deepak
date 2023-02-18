@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rai-deepak, research scholar in Dept. of CSE at NIT Patna.
-- 👀 I’m interested in face image super resolution techniques, both classical and deep learning based techniques.
-- 🌱 I’m currently learning deep learning techniques for face image super resolution.
+- 👀 I’m interested in face image super resolution (or hallucination) techniques, both classical and deep learning based techniques.
+- 🌱 I’m currently working in Face super-resolution domain and learning the applicability of deep learning techniques in this domain.
 - 💞️ I’m looking to collaborate with peoples working in this area.
 - 📫 I may be contacted on ramdeepakniwash@gmail.com
 
